@@ -10,4 +10,4 @@ aplikasi pustaka booking adalah aplikasi untuk perpustaaakn dalam mengelola data
 2. Mengembalikan Buku
 
 ### Screenshot Project
-![Screenshot](/assets/img/screenshot/Screenshot.PNG)
+![menu-user](/assets/img/screenshot/menu-user.png)
